@@ -5,8 +5,8 @@ Ich bin Frontend Developer mit klarem Fokus auf React und Next.js und entwickle 
 Ich lerne kontinuierlich dazu und baue meine Fähigkeiten in spannenden Projekten aus.
 
 ## Skills
-🚀 React & Next.js | WordPress (Elementor & Oxygen) <br>
-📂 HTML, CSS, JS | Git & GitHub Workflow
+🚀 React.js & Next.js | WordPress (Elementor & Oxygen) <br>
+📂 HTML5, CSS3, JS | Git & GitHub Workflow
 
 ## Projekte
 [Portfolio Website](https://www.dimaaro.com) – React & Next.js, responsive, SEO-optimiert
